@@ -1,0 +1,11 @@
+.nav {
+    background-color: rgb(18, 68, 216);
+    text-decoration: none;
+    }
+
+.nav a{
+    color: #fff;
+}
+.nav a:hover{
+    color: #d8d7d7;
+}
